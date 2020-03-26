@@ -1,4 +1,6 @@
-### Yazılım Mühendisliği Güncel Konular Dersi Repository
+# Yazılım Mühendisliği Güncel Konular 
 
-### Gündüz Şubesi
-## 15541049 SAMED DEMİR
+## Yapılan tüm raporlar burada paylaşılacaktır.
+
+#### Gündüz Şubesi
+#### 15541049 SAMED DEMİR
