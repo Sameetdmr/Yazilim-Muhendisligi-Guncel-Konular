@@ -9,7 +9,7 @@
 ----------------------------------------------------------------------------------
 ### Rapor-2 => 03.04.2020 tarihinde gönderilmiştir.
 
-*** Datasetler sadece github repository içinde bulunmaktadır.
-*** Seçilen Datasetler günlük olarak baz alınmaktadır.
+*** Datasetler sadece github repository içinde bulunmaktadır.</br>
+*** Seçilen Datasetler günlük olarak baz alınmaktadır.</br>
 *** Projenin ilerlemesinde Dataset üzerinde gerekli değişiklikler yapılacaktır.
 ----------------------------------------------------------------------------------
