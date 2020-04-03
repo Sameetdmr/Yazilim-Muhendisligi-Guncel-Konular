@@ -11,5 +11,5 @@
 
 *** Datasetler sadece github repository içinde bulunmaktadır.</br>
 *** Seçilen Datasetler günlük olarak baz alınmaktadır.</br>
-*** Projenin ilerlemesinde Dataset üzerinde gerekli değişiklikler yapılacaktır.
+*** Projenin ilerlemesinde saatlik veriler ihtiyaç olacağından ilerleyen ve istenilen zamanlarda yeni dataset sisteme eklenecektir.
 ----------------------------------------------------------------------------------
