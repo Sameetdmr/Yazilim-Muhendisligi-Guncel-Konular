@@ -20,117 +20,6 @@ son_veri1=veri1.drop('Tarih',1)
 veri2=pd.read_excel("C:/Users/samed/Desktop/Yazilim-Muhendisligi-Guncel-Konular/Yazilim-Muhendisligi-Guncel-Konular/Adana-Valilik-Günlük.xlsx")
 son_veri2 = veri2.drop('Tarih', 1)
 
-
-
-
-#plt.figure(figsize=(12,6))
-#
-#plt.plot(veri1.Tarih,veri1["SO2 ( µg/m³ )"],color="red",linewidth=2,linestyle="--",marker="o") 
-#
-#plt.xlabel("Tarih")
-#
-#plt.ylabel("SO2")
-#
-#plt.title("Türkiye'nin SO2 Oranları")
-#
-#plt.show()
-'''
-plt.figure(figsize=(16,10))
-
-plt.plot(veri2.Tarih,
-        veri2["PM10 ( µg/m³ )"],
-         color="r",
-         linewidth=1,
-         alpha=0.5)
-
-plt.plot(veri2.Tarih,
-        veri2["SO2 ( µg/m³ )"],
-        color="blue",
-        linewidth=1,
-
-        alpha=0.9)
-
-plt.plot(veri2.Tarih,
-        veri2["CO ( µg/m³ )"],
-        color="green",
-        linewidth=1,
-        alpha=0.9)
-
-plt.plot(veri2.Tarih,
-        veri2["NO2 ( µg/m³ )"],
-        color="#0ea7b5",
-        linewidth=1,
-        alpha=0.9)
-
-plt.plot(veri2.Tarih,
-        veri2["O3 ( µg/m³ )"],
-        color="#0c457d",
-        linewidth=1,
-         alpha=0.9)
-
-
-
-
-plt.xlabel("Tarih")
-
-plt.ylabel("( µg/m³ )")
-
-plt.title("Adana Hava Ölçüm Sonuçları Aralık ve Ocak")
-
-plt.show()
-
-""""
-plt.hist([veri1.Tarih,veri1["SO2 ( µg/m³ )"]],
-         color=['#0c457d','#0ea7b5'],
-         label=["Tarih","SO2 ( µg/m³ )"])
-
-plt.xlabel("Oranlar")
-
-plt.ylabel("Dağılımlar")
-plt.title("İşsizlik ve Enflasyon Oranları")
-plt.legend()
-plt.show()
-"""
-
-veri1.Tarih = pd.to_datetime(veri1.Tarih)
-veri1.set_index('Tarih', inplace=True)
-
-
-
-
-plt.hist([veri2["PM10 ( µg/m³ )"],veri2["SO2 ( µg/m³ )"],veri2["CO ( µg/m³ )"],veri2["NO2 ( µg/m³ )"],veri2["O3 ( µg/m³ )"]],
-         color=['red','blue','green','#0c457d','#0ea7b5'],
-         label=["PM10 ( µg/m³ )","SO2 ( µg/m³ )","CO ( µg/m³ )","NO2 ( µg/m³ )","O3 ( µg/m³ )"])
-
-plt.xlabel("Oranlar")
-
-plt.ylabel("Dağılımlar")
-plt.title("İşsizlik ve Enflasyon Oranları")
-plt.legend() 
-plt.show()
-
-
-
-
-
-
-plt.figure(figsize=(10,12))
-
-plt.bar(veri2.Tarih,veri2["PM10 ( µg/m³ )"],label="PM10",width=0.4,color="red")
-plt.bar(veri2.Tarih,veri2["SO2 ( µg/m³ )"],label="SO2",color="blue")
-plt.bar(veri2.Tarih,veri2["CO ( µg/m³ )"],label="CO",color="green")
-plt.bar(veri2.Tarih,veri2["NO2 ( µg/m³ )"],label="NO2",color="#0c457d")
-plt.bar(veri2.Tarih,veri2["O3 ( µg/m³ )"],label="O3",color="#0ea7b5")
-
-
-plt.ylabel("Oran")
-plt.xlabel("Tarih")
-plt.legend()
-plt.title("Hava durumu")
-plt.show()
-
-'''
-
 ########################################################################################
 
 
@@ -287,20 +176,6 @@ plt.title("O3 Dağılım Oranı")
 plt.show()
 
 '''
-
-plt.figure(figsize=(10,12))
-
-plt.bar(veri2.Tarih,veri2["PM10 ( µg/m³ )"],label="PM10",width=0.4,color="red")
-plt.bar(veri2.Tarih,veri2["SO2 ( µg/m³ )"],label="SO2",color="blue")
-
-
-
-plt.ylabel("Oran")
-plt.xlabel("Tarih")
-plt.legend()
-plt.title("Hava durumu")
-plt.show()
-
 
 
 
