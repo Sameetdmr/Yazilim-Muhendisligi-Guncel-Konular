@@ -11,7 +11,9 @@
 > Rapor-2 => **03.04.2020** tarihinde gönderilmiştir.
 
 > Datasetler sadece github repository içinde bulunmaktadır.
+> 
 > Seçilen Datasetler günlük olarak baz alınmaktadır.
+> 
 > Projenin ilerlemesinde saatlik veriler ihtiyaç olacağından ilerleyen ve istenilen zamanlarda **Yeni Dataset** sisteme eklenecektir.
 --------------------------------------------------------------
 > Rapor-3 => **09.04.2020** tarihinde gönderilmiştir.
