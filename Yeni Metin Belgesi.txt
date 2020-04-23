@@ -1,0 +1,7 @@
+08:00 18:00 00:00 Karakteristik analiz için
+Adana valilik ve çatalan için
+-------------------------------------------------------------------------
+
+08 data set oluştur ilerleyen zamanlarda sadece => Model kurma için
+
+Amaç=> Saat 08.00 için eğitilen verilerin ilerleyen zamanlarda 4 verinin verilip 1 verinin tahmin edilmesini sağlamak. Sonra gerçek veri üzerinde karşılaştırma yapmak.
