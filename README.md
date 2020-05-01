@@ -26,4 +26,11 @@
 > **Rapor-5 => **23.04.2020** tarihinde gönderilmiştir.**
 
 > Yeni Datasetler oluşturuldu.
+--------------------------------------------------------------
+> **Rapor-6 => **30.04.2020** tarihinde gönderilmiştir.**
 
+> Yeni Datasetler oluşturuldu.
+> KNN algoritması ile eksik veriler dolduruldu.
+> Saat 08:00, 18:00 ve 00:00 verileri bulunan dataset oluşturuldu.
+> Karakteristik analiz yapıldı.
+--------------------------------------------------------------
