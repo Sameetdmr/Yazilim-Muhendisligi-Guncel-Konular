@@ -1,9 +1,25 @@
 # *Yazılım Mühendisliği Güncel Konular*
 
     Yapılan tüm raporlar burada paylaşılacaktır.
-
+    
+    
 > Gündüz Şubesi
 15541049 SAMED DEMİR
+    
+## Rapor sıralaması gösterildiği gibidir.
+
+> Rapor.1 => Sunma Raporu
+
+> Rapor.2 => 1. Aşama
+
+> Rapor.3 => 2. Aşama
+> Rapor.4 => 2. Aşama
+
+> Rapor.5 => 3. Aşama
+> Rapor.6 => 3. Aşama
+
+> Rapor.7 => 4. Aşama
+
 --------------------------------------------------------------
 > **Rapor-1 => **26.03.2020** tarihinde gönderilmiştir.**
 --------------------------------------------------------------
@@ -36,4 +52,12 @@
 > Saat 08:00, 18:00 ve 00:00 verileri bulunan dataset oluşturuldu.
 
 > Karakteristik analiz yapıldı.
+--------------------------------------------------------------
+> **Rapor-7 => **07.05.2020** tarihinde gönderilmiştir.**
+
+> 2015 Ocak - 2019 Aralık arası saat 18:00 verileri bulunan dataset oluşturuldu.
+
+> KNN algoritması ile eksik veriler dolduruldu.
+
+> Model hakkında bilgi verildi.
 --------------------------------------------------------------
