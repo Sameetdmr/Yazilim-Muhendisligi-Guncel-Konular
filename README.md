@@ -13,9 +13,11 @@
 > Rapor.2 => 1. Aşama
 
 > Rapor.3 => 2. Aşama
+>
 > Rapor.4 => 2. Aşama
 
 > Rapor.5 => 3. Aşama
+>
 > Rapor.6 => 3. Aşama
 
 > Rapor.7 => 4. Aşama
