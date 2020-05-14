@@ -48,7 +48,7 @@ predict1=NN_model.predict(predict)
 
 
 # Grafikle Gösterimi :
-import matplotlib.plot as plt
+import matplotlib.pyplot as plt
 
 plt.plot(history.history['loss'])
 plt.plot(history.history['val_loss'])
