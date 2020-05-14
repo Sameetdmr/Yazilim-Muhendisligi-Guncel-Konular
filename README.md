@@ -22,6 +22,8 @@
 
 > Rapor.7 => 4. Aşama
 
+> Rapor.8 => 4. Aşama
+
 --------------------------------------------------------------
 > **Rapor-1 => **26.03.2020** tarihinde gönderilmiştir.**
 --------------------------------------------------------------
@@ -62,4 +64,10 @@
 > KNN algoritması ile eksik veriler dolduruldu.
 
 > Model hakkında bilgi verildi.
+--------------------------------------------------------------
+> **Rapor-8 => **14.05.2020** tarihinde gönderilmiştir.**
+
+> Yapay sinir ağı modeli oluşturuldu.
+
+> Her bir alan için denemeler yapıldı.
 --------------------------------------------------------------
