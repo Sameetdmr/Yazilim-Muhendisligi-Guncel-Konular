@@ -7,10 +7,10 @@ X = pd.read_excel("Catalan_2015-2019_Saat18.xlsx")
 Y = pd.read_excel("Catalan_2020-Ocak_Saat18.xlsx")
 
 # Eğitilen veri seçimi :
-y_train = X["O3"]
-X_train = X.drop(["Tarih","O3"], axis=1)
-y_test = Y["O3"]
-X_test = Y.drop(["Tarih","O3"], axis=1)
+y_train = X["NO2"]
+X_train = X.drop(["Tarih","NO2"], axis=1)
+y_test = Y["NO2"]
+X_test = Y.drop(["Tarih","NO2"], axis=1)
 
 # Verileri dizi haline getirme :
 y_train = np.array(y_train)
@@ -36,7 +36,7 @@ NN_model.add(Dense(1, kernel_initializer='normal',activation='linear'))
 NN_model.summary()
 
 # Modelin Derlenmesi :
-NN_model.compile(loss='mean_squared_error', optimizer='adam', metrics=['mae'])
+NN_model.compile(loss='mean_squared_error', optimizer='adam', metrics=['mae','accuracy'])
 
 
 history = NN_model.fit(X_train, y_train, epochs=500, batch_size=32,  verbose=1)
@@ -44,6 +44,10 @@ history = NN_model.fit(X_train, y_train, epochs=500, batch_size=32,  verbose=1)
 # Tahmin İşlemi :
 predict = np.array(X_test)
 predict1=NN_model.predict(predict)
+
+print("Ortalama Eğitim kaybı : ", np.mean(NN_model.history.history["loss"]))
+print("Ortalama Eğitim Başarımı : ", np.mean(NN_model.history.history["accuracy"]))
+
 
 
 
