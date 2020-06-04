@@ -26,6 +26,8 @@
 
 > Rapor.9 => Genel Rapor 
 
+> Rapor.10 => 4. Aşama
+
 --------------------------------------------------------------
 > **Rapor-1 => **26.03.2020** tarihinde gönderilmiştir.**
 --------------------------------------------------------------
@@ -82,4 +84,8 @@
 > KNN algoritması ile eksik veriler dolduruldu.
 
 > Yapay Sinir ağı modeli oluşturuldu. (LSTM)
+--------------------------------------------------------------
+> **Rapor-10 => **04.06.2020** tarihinde gönderilmiştir.**
+
+> 4. Aşama sonuç raporu yazıldı
 --------------------------------------------------------------
