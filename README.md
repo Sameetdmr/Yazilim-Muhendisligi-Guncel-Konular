@@ -77,7 +77,7 @@
 --------------------------------------------------------------
 > **Rapor-9 => **28.05.2020** tarihinde gönderilmiştir.**
 
-> Genel rapor yazıldı
+> Genel rapor yazıldı.
 
 > Yeni bir dataset oluşturuldu. 2015 Ocak - 2020 Mayıs
 
@@ -87,5 +87,7 @@
 --------------------------------------------------------------
 > **Rapor-10 => **04.06.2020** tarihinde gönderilmiştir.**
 
-> 4. Aşama sonuç raporu yazıldı
+> 4. Aşama sonuç raporu yazıldı.
+
+> Yeni mimari yazıldı.
 --------------------------------------------------------------
