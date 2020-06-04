@@ -24,6 +24,8 @@
 
 > Rapor.8 => 4. Aşama
 
+> Rapor.9 => Genel Rapor 
+
 --------------------------------------------------------------
 > **Rapor-1 => **26.03.2020** tarihinde gönderilmiştir.**
 --------------------------------------------------------------
@@ -70,4 +72,14 @@
 > Yapay sinir ağı modeli oluşturuldu.
 
 > Her bir alan için denemeler yapıldı.
+--------------------------------------------------------------
+> **Rapor-9 => **28.05.2020** tarihinde gönderilmiştir.**
+
+> Genel rapor yazıldı
+
+> Yeni bir dataset oluşturuldu. 2015 Ocak - 2020 Mayıs
+
+> KNN algoritması ile eksik veriler dolduruldu.
+
+> Yapay Sinir ağı modeli oluşturuldu. (LSTM)
 --------------------------------------------------------------
