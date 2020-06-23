@@ -55,11 +55,11 @@ print("Ortalama Eğitim Başarımı : ", np.mean(NN_model.history.history["accur
 import matplotlib.pyplot as plt
 
 plt.plot(history.history['loss'])
-plt.plot(history.history['val_loss'])
-plt.title('model loss')
+plt.plot(history.history['mae'])
+plt.title('Model Kaybı')
 plt.ylabel('loss')
 plt.xlabel('epoch')
-plt.legend(['train', 'validation'], loc='upper left')
+plt.legend(['Eğitim', 'mae'], loc='upper left')
 plt.show()
 
 
