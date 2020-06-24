@@ -1,6 +1,6 @@
 # *Yazılım Mühendisliği Güncel Konular*
 
-#### Google Drive [Yazılım Mühendisliği Güncel Konular](https://drive.google.com/drive/folders/1vIwTU0BMVxRUu_bvxz93QXj9PQFrl7qN?usp=sharing)
+#### Google Drive : [Yazılım Mühendisliği Güncel Konular](https://drive.google.com/drive/folders/1vIwTU0BMVxRUu_bvxz93QXj9PQFrl7qN?usp=sharing)
 
 > Gündüz Şubesi
 
