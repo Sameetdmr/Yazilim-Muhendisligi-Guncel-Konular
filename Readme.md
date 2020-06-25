@@ -2,9 +2,9 @@
 
 #### Google Drive : [Yazılım Mühendisliği Güncel Konular](https://drive.google.com/file/d/1Uwz8PcVTfxLl8QmpsvC7H3SeIHnL3QFR/view?usp=sharing)
 
-#### Vize Video : [Vize](https://github.com/Sameetdmr/Yazilim-Muhendisligi-Guncel-Konular/blob/master/Videolar/15541049%20-%20Yaz%C4%B1l%C4%B1m%20M%C3%BChendisli%C4%9Fi%20G%C3%BCncel%20Konular%20Dersi%20Projesi%20A%C5%9Famalar%C4%B1.mp4)
+#### Vize Video : [Vize](https://github.com/Sameetdmr/Yazilim-Muhendisligi-Guncel-Konular/blob/master/Videolar/15541049%20-%20Yaz%C4%B1l%C4%B1m%20M%C3%BChendisli%C4%9Fi%20G%C3%BCncel%20Konular%20Dersi%20Projesi%20A%C5%9Famalar%C4%B1.mp4?raw=true)
 
-#### Final Video : [Final](https://github.com/Sameetdmr/Yazilim-Muhendisligi-Guncel-Konular/blob/master/Videolar/15541049%20-%20Yaz%C4%B1l%C4%B1m%20M%C3%BChendisli%C4%9Fi%20G%C3%BCncel%20Konular%20Final%20Sunumu.mp4)
+#### Final Video : [Final](https://github.com/Sameetdmr/Yazilim-Muhendisligi-Guncel-Konular/blob/master/Videolar/15541049%20-%20Yaz%C4%B1l%C4%B1m%20M%C3%BChendisli%C4%9Fi%20G%C3%BCncel%20Konular%20Final%20Sunumu.mp4?raw=true)
 
 > Gündüz Şubesi
 
