@@ -1,9 +1,9 @@
 # *Yazılım Mühendisliği Güncel Konular*
 
-    Yapılan tüm raporlar burada paylaşılacaktır.
-    
-    
+#### Google Drive : [Yazılım Mühendisliği Güncel Konular](https://drive.google.com/file/d/1Uwz8PcVTfxLl8QmpsvC7H3SeIHnL3QFR/view?usp=sharing)
+
 > Gündüz Şubesi
+
 15541049 SAMED DEMİR
     
 ## Rapor sıralaması gösterildiği gibidir.
@@ -29,8 +29,11 @@
 > Rapor.10 => 4. Aşama
 
 > Rapor.11 => 5. Aşama
-
 --------------------------------------------------------------
+> `Önemli not => 4. Aşama klasörü içinde 5. Aşamada bulunan adımlarda eklenmiştir.`
+--------------------------------------------------------------
+
+
 > **Rapor-1 => **26.03.2020** tarihinde gönderilmiştir.**
 --------------------------------------------------------------
 > **Rapor-2 => **03.04.2020** tarihinde gönderilmiştir.**
